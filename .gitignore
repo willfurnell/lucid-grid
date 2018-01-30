@@ -1,0 +1,5 @@
+config.py
+db.db
+lucid_utils/
+lucid_classifiers/
+.idea/

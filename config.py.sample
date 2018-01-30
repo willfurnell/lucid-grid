@@ -1,0 +1,7 @@
+DATA_BASE_LOCATION = "/mnt/lustre_2/storm_3/cernatschool.org/data/lucid/"
+
+API_KEY = "ADD_YOUR_OWN_HERE"
+
+API_BASE_URL = "https://tapas.researchinschools.org/api/v1/"
+
+HEADERS = {'Authorization': 'Token ' + API_KEY, }
